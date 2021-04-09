@@ -6,17 +6,19 @@ Para rodar o projeto:
 
 - Baixe todas as dependencias
 
-bash
+```
 npm install
 # ou
 yarn
+```
 
 - Rode o comando abaixo
 
-bash
+```
 npm run start
 # ou
 yarn start
+```
 
 
 Abrir [http://localhost:3000](http://localhost:3000) no seu navegador para ver o resultado.
